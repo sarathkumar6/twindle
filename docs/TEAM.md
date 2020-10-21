@@ -71,3 +71,4 @@
 | Kenny                                        | 4+ yrs of experience Kerala, India Here to help :partying_face:                                    |
 | Kingsley                                     | 3+ yrs of experience. Based in Nigeria and here to help :man_technologist:                         |
 | [Pratham](https://github.com/prasoonpratham) | 2+ experience in JavaScript, always open to help :smile:                                           |
+| [Sarath](http://www.sarathnagaraj.ca/))| 6+ yrs of experience in JavaScript, At present working on Angular JS and some React JS side project:   |
